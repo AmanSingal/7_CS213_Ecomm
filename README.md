@@ -3,7 +3,7 @@ This contains the source code and video of a simple E-comm website made by using
 
 
 
-   E-COMMERCE APPLICATION
+   E-COMMERCE APPLICATION - Here's the [Link](https://youtu.be/PrTnEUWVtV8) for demo of the project.
 
 GETTING STARTED
 
