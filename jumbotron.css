@@ -1,0 +1,9 @@
+.jumbotron {
+/*    background: url('http://placekitten.com/800/500') no-repeat center center;
+  background-size: cover;*//**/
+   /* color: #fff;*/
+    padding: 5em inherit;
+}
+body {
+    padding: 50px;
+}
